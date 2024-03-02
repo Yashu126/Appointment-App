@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.title-con {
+  display: flex;
+  justify-content: space-between;
+}
+
+.appointment-card {
+  width: 250px;
+  border: 2px solid #b5b7c4;
+  border-radius: 15px;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.star-btn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.title {
+  font-weight: bold;
+  margin: 0px;
+}
+
+.date {
+  margin: 0px;
+}
